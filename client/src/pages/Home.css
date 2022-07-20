@@ -1,0 +1,19 @@
+.home-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #7ee8fa;
+  background-image: linear-gradient(315deg, #7ee8fa 0%, #80ff72 74%);
+  flex-direction: column;
+}
+
+.welcome {
+  font-size: 28px;
+}
+
+.homeGrid {
+  display: flex;
+  flex-direction: row;
+  padding-top: 20px;
+}

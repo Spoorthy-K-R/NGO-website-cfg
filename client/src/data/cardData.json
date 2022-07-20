@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "For students",
+    "description": "Through our portal, a student will be able to find a job according to his/her skills after giving the necessary information and will also be able to see the job listings posted by different companies.",
+    "link": "/student",
+    "image": "https://media.istockphoto.com/photos/beautiful-smiling-female-college-student-picture-id1340766096?b=1&k=20&m=1340766096&s=170667a&w=0&h=P-ay9mgiAn5O_eg3JOfaKIpDTu-_p70NyIsEhVcEFco="
+  },
+  {
+    "id": 2,
+    "title": "For investors",
+    "description": "Through our portal, an investor can view the startup idea of the entrepreneurs and check in which idea they are willing to invest and revert back to the entrepreneurs with the amount they are ready to invest.",
+    "link": "/investor",
+    "image": "https://assets.entrepreneur.com/content/3x2/2000/1392158430-need-investor-ditch-pitch.jpg"
+  },
+  {
+    "id": 3,
+    "title": "For entrepreneurs",
+    "description": "Through our portal, an entrepreneur will be able to find an investor who is ready to invest in his company and provide funds. The entrepreneur can view the list of investors and the amount they are ready to invest in the company.",
+    "link": "/entrepreneur",
+    "image": "https://assets.entrepreneur.com/content/3x2/2000/20160117140803-shutterstock-185422997.jpeg"
+  },
+  {
+    "id": 4,
+    "title": "For companies",
+    "description": "Through our portal, a company can see the list of students and the domain in which they have applied for job and choose the students which match their company requirements and send the students with their job.",
+    "link": "/company",
+    "image": "https://media.istockphoto.com/photos/office-building-picture-id1339912221?b=1&k=20&m=1339912221&s=170667a&w=0&h=YNFs0TYjA3ApIwAidPJs5CSphLZXwP356K022CqEoGQ="
+  }
+]

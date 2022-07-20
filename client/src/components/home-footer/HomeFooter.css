@@ -1,0 +1,29 @@
+.footercontainer {
+  display: flex;
+  flex-direction: row !important;
+  justify-content: space-between;
+  background-color: #7ee8fa;
+  background-image: linear-gradient(315deg, #7ee8fa 0%, #80ff72 74%);
+  font-weight: bold;
+}
+
+.imagecontainer {
+  display: flex;
+  align-items: center;
+}
+
+img {
+  height: 30px;
+  width: 75px;
+  margin: 0;
+}
+
+.footerinnercontainer {
+  display: flex;
+  flex-direction: row !important;
+  padding-right: 50px;
+}
+
+.footerlinks {
+  padding-right: 75px;
+}

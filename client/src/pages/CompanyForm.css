@@ -1,0 +1,66 @@
+* {
+  outline: 0;
+  font-family: "Josefin Sans", sans-serif;
+}
+
+.sidForm {
+  background-color: #7ee8fa;
+  background-image: linear-gradient(315deg, #7ee8fa 0%, #80ff72 74%);
+}
+
+.comp {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.head {
+  border-bottom: 1px solid silver;
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+form {
+  padding: auto;
+  box-sizing: border-box;
+}
+
+input {
+  display: block;
+  min-width: 90%;
+  margin: 1em;
+  padding: 1em;
+  width: 35em;
+  border-radius: 8px;
+  border-style: none;
+  border: 1px solid #e4e6e8;
+  transition: 0.1s ease;
+  font-weight: 500;
+}
+
+input:hover {
+  border-color: blueviolet;
+}
+
+button {
+  margin: 0.8em;
+  padding: 1em;
+  background-color: gray;
+  font-weight: bolder;
+  color: white;
+  border: 1px solid #e4e6e8;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.1s ease-in;
+}
+
+button:hover {
+  background-color: white;
+  color: black;
+}

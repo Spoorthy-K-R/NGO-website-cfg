@@ -1,0 +1,23 @@
+.homenavcont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px;
+  font-weight: bold;
+  background: transparent;
+  background-color: #7ee8fa;
+  background-image: linear-gradient(315deg, #7ee8fa 0%, #80ff72 74%);
+}
+
+img {
+  height: 30px;
+  width: 75px;
+}
+.links {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+}
+.link {
+  padding-right: 10px;
+}
