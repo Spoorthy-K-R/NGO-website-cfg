@@ -1,7 +1,8 @@
-# Team 20
+# About
 
-This web app was built by team 20 to help Sobus ingest huge amounts of data and analyze it.
+This web app was built by the team I was a part of to help Sobus ingest huge amounts of data and analyze it.
 The project was built using Django Rest Framework on the backend with Sqlite3 as the database and React.js on the frontend.
+This web app aims to provide a user friendly interface for skilled job seekers and entrepeneurs to connect with equipped investors and companies.
 !["The Hack-o-holics present a solution"](HomePage.png)
 To run this project (in the root directory of the project):\
 Backend:
